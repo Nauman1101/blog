@@ -11,14 +11,14 @@
     Responsive Web development using Tailwind
     Eloquent Model
     Eloquent Relationship
-   Eloquent Collection
+    Eloquent Collection
     Eloquent Eager Loading
     Soft Deleting
     Email Sending
     Responsive Email Markdown
     Form Validation
     User Authentication
-   Laravel Policy
+    Laravel Policy
     Laravel 8 Blade Components
     Seed Database
 
